@@ -21,6 +21,7 @@
 
   ```console
   ubuntu-VirtualBox:~$ cd Desktop
+  ubuntu-VirtualBox:~/Desktop$
   ```  
   ###### NOTE : '..' is used to go back to the previous directory
   ```console
@@ -34,7 +35,7 @@
   ```
   
 ### mkdir & rmdir:
-  * ##### 'mkdir' command can we used to make a directory and 'rmdir'command can be used to remove a empty directory
+  * ##### 'mkdir' command can we used to make a directory and 'rmdir'command can be used to delete a empty directory
 
   ```console
   ubuntu-VirtualBox:~/Desktop$ mkdir commands
@@ -84,3 +85,15 @@
   folder1
   ubuntu-VirtualBox:~/Desktop$
   ```
+ 
+### echo:
+ * ##### 'echo' command can be used to display line of text/string. 
+ * ##### 'echo' can also be used initialize variables and display output or store output in a file
+ 
+ ###### NOTE: 'echo' can be used to display our default interpreter
+ ```console
+ fiesta@fiesta-VirtualBox:~/Downloads$ echo $SHELL
+ /bin/bash
+ ```
+ 
+
