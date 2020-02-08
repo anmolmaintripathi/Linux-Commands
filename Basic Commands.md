@@ -68,8 +68,8 @@
   
   ```
 
-### rn:
-  * ##### 'rn' command can be used to remove files and directories
+### rm:
+  * ##### 'rm' command can be used to remove files and directories
   
   ```console
   ubuntu-VirtualBox:~/Desktop$ ls
@@ -88,12 +88,17 @@
  
 ### echo:
  * ##### 'echo' command can be used to display line of text/string. 
- * ##### 'echo' can also be used initialize variables and display output or store output in a file
+ * ##### 'echo' can also be used display output.
  
  ###### NOTE: 'echo' can be used to display our default interpreter
  ```console
- fiesta@fiesta-VirtualBox:~/Downloads$ echo $SHELL
+ fiesta@fiesta-VirtualBox:~$ echo $SHELL
  /bin/bash
  ```
+### cat:
+ * ##### 'cat' command can be used to read a file and display the contains of the file.
+ * ##### It can also used to concatenate two different files.
+ 
+ 
  
 
