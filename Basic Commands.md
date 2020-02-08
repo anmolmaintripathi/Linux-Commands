@@ -1,0 +1,66 @@
+# Basic Linux Commands
+
+### ls:
+##### 'ls' command can be used to display all the files present in a current directory
+
+```console
+
+ubuntu-VirtualBox:~$ ls
+Desktop  Documents  Downloads  Music  Pictures  Public  snap  Templates  Videos
+
+// NOTE : '-a' option is used to display all the hidden file
+ubuntu-VirtualBox:~$ ls -a                                  
+Desktop        Documents   .install4j     Pictures   snap                       .vboxclient-display.pid
+Downloads      .java       .pki           .ssh       .vboxclient-draganddrop.pid
+.bash_history  .cache      .gnome         .local     .profile         .sudo_as_admin_successful  .vboxclient-seamless.pi
+
+```
+
+### cd:
+##### 'cd' command can be used to go a specific directory
+
+```console
+
+ubuntu-VirtualBox:~$ cd Desktop
+ubuntu-VirtualBox:~/Desktop$ cd ..                            // NOTE : '..' is used to go back to the previous directory
+ubuntu-VirtualBox:~$ 
+
+ubuntu-VirtualBox:~$ cd Documents/"Visual Studio Code"/Python    // NOTE : you can enter a path to move to that specific directory
+ubuntu-VirtualBox:~/Documents/Visual Studio Code/Python$ 
+
+```
+
+### mkdir & rmdir:
+##### 'mkdir' command can we used to make a directory and 'rmdir'command can be used to remove a empty directory
+
+```console
+
+ubuntu-VirtualBox:~/Desktop$ mkdir commands
+ubuntu-VirtualBox:~/Desktop$ ls
+commands
+ubuntu-VirtualBox:~/Desktop$ mkdir folder
+ubuntu-VirtualBox:~/Desktop$ ls
+commands  folder
+
+//NOTE : We can delete only those folders which are empty using rmdir 
+ubuntu-VirtualBox:~/Desktop$ cd folder
+ubuntu-VirtualBox:~/Desktop/folder$ mkdir folder2
+ubuntu-VirtualBox:~/Desktop/folder$ cd ..
+
+//NOTE : When we try to delete an non-empty folder using rmdir it raises an errror messgae
+ubuntu-VirtualBox:~/Desktop$ rmdir folder
+rmdir: failed to remove 'folder': Directory not empty
+
+//NOTE : Once all the contains of the folder is deleted then we can execute the 'rmdir' command to delete the folder
+ubuntu-VirtualBox:~/Desktop$ cd folder
+ubuntu-VirtualBox:~/Desktop/folder$ rmdir folder2
+ubuntu-VirtualBox:~/Desktop/folder$ cd ..
+ubuntu-VirtualBox:~/Desktop$ rmdir folder
+ubuntu-VirtualBox:~/Desktop$ ls
+commands
+ubuntu-VirtualBox:~/Desktop$ 
+
+```
+
+###
+
