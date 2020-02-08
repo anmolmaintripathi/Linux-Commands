@@ -13,9 +13,17 @@
   Desktop        Documents   .install4j     Pictures   snap                       .vboxclient-display.pid
   Downloads      .java       .pki           .ssh       .vboxclient-draganddrop.pid
   .bash_history  .cache      .gnome         .local     .profile         .sudo_as_admin_successful  .vboxclient-seamless.pi
-
   ```
-
+  ###### NOTE : '-l' option is used to display all the number of folders in the current directory and details of each files and folders
+  ```console
+  fiesta@fiesta-VirtualBox:~$ ls -l
+ total 48
+ drwxr-xr-x 2 fiesta fiesta 4096 Feb  8 22:30 Desktop
+ drwxr-xr-x 3 fiesta fiesta 4096 Feb  7 20:29 Documents
+ drwxr-xr-x 2 fiesta fiesta 4096 Feb  8 22:47 Downloads
+ ....
+  ```
+  
 ### cd:
   * ##### 'cd' command can be used to go a specific directory
 
@@ -95,10 +103,29 @@
  fiesta@fiesta-VirtualBox:~$ echo $SHELL
  /bin/bash
  ```
+ 
+### touch:
+ * ##### 'touch' command is used to create any kind of files
+ ```console
+ fiesta@fiesta-VirtualBox:~$ cd Desktop
+ fiesta@fiesta-VirtualBox:~/Desktop$ ls -l
+ total 0
+ fiesta@fiesta-VirtualBox:~/Desktop$ touch trail.txt
+ fiesta@fiesta-VirtualBox:~/Desktop$ ls -l
+ total 0
+ -rw-r--r-- 1 fiesta fiesta 0 Feb  9 01:31 trail.txt
+ fiesta@fiesta-VirtualBox:~/Desktop$ ls
+ trail.txt
+ fiesta@fiesta-VirtualBox:~/Desktop$ 
+ ```
+ 
 ### cat:
  * ##### 'cat' command can be used to read a file and display the contains of the file.
  * ##### It can also used to concatenate two different files.
+ ###### NOTE: assume there exist a file called "trial.txt"
+ ```console
  
+ ```
  
  
 
