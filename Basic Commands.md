@@ -124,8 +124,29 @@
  * ##### It can also used to concatenate two different files.
  ###### NOTE: assume there exist a file called "trial.txt"
  ```console
- 
+ fiesta@fiesta-VirtualBox:~/Desktop$ cat trial.txt
+ this is the first line of the file
+ fiesta@fiesta-VirtualBox:~/Desktop$
  ```
- 
- 
-
+ ###### NOTE: ">>" operator can be used to append values into a existing file. (`Ctrl + D` can be used to end the file)
+ ```console 
+ fiesta@fiesta-VirtualBox:~/Desktop$ cat trial.txt
+ this is the first line of the file
+ fiesta@fiesta-VirtualBox:~/Desktop$ cat >> trial.txt
+ this is the second line of the life
+ fiesta@fiesta-VirtualBox:~/Desktop$ cat trial.txt
+ this is the first line of the file
+ this is the second line of the life
+ fiesta@fiesta-VirtualBox:~/Desktop$
+ ```
+ ###### NOTE: ">" operator can be used to replace the contains of the file. 
+ ```console
+ fiesta@fiesta-VirtualBox:~/Desktop$ cat trial.txt
+ this is the first line of the file
+ this is the second line of the life
+ fiesta@fiesta-VirtualBox:~/Desktop$ cat > trial.txt
+ this will replace all the exsiting values in the file.
+ fiesta@fiesta-VirtualBox:~/Desktop$ cat trial.txt
+ this will replace all the exsiting values in the file.
+ fiesta@fiesta-VirtualBox:~/Desktop$ 
+ ``` 
