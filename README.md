@@ -5,3 +5,6 @@
   * cd
   * mkdir & rmdir
   * rm 
+  * echo 
+  * touch
+  * cat
