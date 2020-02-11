@@ -149,6 +149,7 @@
  fiesta@fiesta-VirtualBox:~/Desktop$ cat trial.txt
  this will replace all the exsiting values in the file.
  fiesta@fiesta-VirtualBox:~/Desktop$ 
+ ```
  
  ###### NOTE: 'cat' command can  be used to combine the contains of different files and add it to a new file
  ```console
