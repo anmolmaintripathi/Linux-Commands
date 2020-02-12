@@ -9,7 +9,9 @@
   ```
   
 ### Getting started with cURL :
-  - Accept Requests send by the server :
+  - Accept Requests send by the server : 
+    Most of the below examples, the request is sent using the 'GET' method of http and are just focusing on the response we get from the server.
+    
     ###### NOTE: cURL command when executed will return the body of the response sent by the server
     ```console
     fiesta@fiesta-VirtualBox:~/Desktop$ curl https://www.example.com
@@ -75,6 +77,16 @@
     <link rel="stylesheet" type="text/css" href="https://curl.haxx.se/curl.css">
     .....
     ```
+    ###### NOTE: multiple URLs can we entered in the single commands
+    ```console
+    fiesta@fiesta-VirtualBox:~$ curl https://www.example.com https://www.google.com
+    <!doctype html>
+    <html>
+        <head> <TITLE>curl - Tutorial</TITLE>
+    ..... 
+    ```
+### Sending POST request :
+    As we all know https has few method   
   
   - Refer for more: [Link to cURL Documentation](https://curl.haxx.se/docs/httpscripting.html)
   
