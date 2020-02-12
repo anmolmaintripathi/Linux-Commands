@@ -111,7 +111,12 @@
   ###### NOTE : 'username' and 'password' is the name for the input box, and these names can be known by seeing the html code of the website.
   
   ```console
+  fiesta@fiesta-VirtualBox:~$ curl --data "username=admin&password=admin" http://www.stealmylogin.com/demo.html
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+  <html>
+  <head>
   
+  ....
   ```
   
   - Refer for more: [Link to cURL Documentation](https://curl.haxx.se/docs/httpscripting.html)
