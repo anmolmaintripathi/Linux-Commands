@@ -118,7 +118,7 @@
   
   ....
   ```
-  
+  - More on how to use curl to send "POST" request [Link to cURL : POST request](https://curl.haxx.se/docs/httpscripting.html#POST)
   - Refer for more: [Link to cURL Documentation](https://curl.haxx.se/docs/httpscripting.html)
   
   - Refer for more: [Link to cURL Options](https://curl.haxx.se/docs/manual.html)
