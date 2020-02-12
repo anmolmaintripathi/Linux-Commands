@@ -10,7 +10,7 @@
   
 ### Getting started with cURL :
   - Accept Requests send by the server : 
-    Most of the below examples, the request is sent using the 'GET' method of http and are just focusing on the response we get from the server.
+    - In all of the below examples, the request is sent using the 'GET' method of http request and are just focusing on the response we get from the server.
     
     ###### NOTE: cURL command when executed will return the body of the response sent by the server
     ```console
@@ -86,7 +86,33 @@
     ..... 
     ```
 ### Sending POST request :
-    As we all know https has few method   
+ - As we have seen previous topic examples, when http requests are sent using 'GET' method, it is used to only to retrieve information from the given server using a given URL. Requests using GET would only retrieve data and should have no other effect on the data stored in the server.
+    
+  - But when we send the a http request using the 'POST' method, this means that we are trying to send the data from our side i.e client side to the server side for example "search options" or "login information"
+    
+  #### For example : 
+  ![Simple login page](https://wsvincent.com/assets/images/django-user-authentication-tutorial/login.png)
+  
+  
+  ###### Let's consider that the above login page has the following HTML code
+  
+  ```html
+  <form method="POST" action="junk.cgi">
+    <h1> Login Page </h1>
+    <text>Username:</text>
+    <input type=text name="username">
+    <text>Password:</text>
+    <input type=text name="password">
+    <input type=submit name=press value=" Login ">
+  </form>
+  ```
+  
+  ###### NOTE : In order to send a 'POST' request we will have to send the values of username and password. We can use the option '--data' in order to send the required data, as shown before. 
+  ###### NOTE : 'username' and 'password' is the name for the input box, and these names can be known by seeing the html code of the website.
+  
+  ```console
+  
+  ```
   
   - Refer for more: [Link to cURL Documentation](https://curl.haxx.se/docs/httpscripting.html)
   
