@@ -12,3 +12,6 @@
 * ### Sudo Command.md explains the following:
   * Gain Root Access
   * Install .deb files using 'sudo'
+
+* ### cURL Command :
+
