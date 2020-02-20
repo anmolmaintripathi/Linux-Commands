@@ -14,6 +14,6 @@
   * Install .deb files using 'sudo'
 
 * ### cURL Command :
-  Short note on how cURL command it can be used to access http reponse.
+  - Short note on how cURL command it can be used to access http reponse.
   
 
