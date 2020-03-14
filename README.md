@@ -1,13 +1,13 @@
 # Linux-Commands
 
 * ### Basic Command.md consists of Simple Explanation for following commands:
-  * ls
-  * cd
-  * mkdir & rmdir
-  * rm 
-  * echo 
-  * touch
-  * cat
+  * [ls](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#ls)
+  * [cd](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#cd)
+  * [mkdir & rmdir](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#mkdir--rmdir)
+  * [rm](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#rm)
+  * [echo](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic Commands.md#echo)
+  * [touch](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic Commands.md#touch)
+  * [cat](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic Commands.md#cd)
   
 * ### Sudo Command.md explains the following:
   * Gain Root Access
