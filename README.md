@@ -5,9 +5,9 @@
   * [cd](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#cd)
   * [mkdir & rmdir](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#mkdir--rmdir)
   * [rm](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#rm)
-  * [echo](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic Commands.md#echo)
-  * [touch](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic Commands.md#touch)
-  * [cat](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic Commands.md#cd)
+  * [echo](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#echo)
+  * [touch](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#touch)
+  * [cat](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#cat)
   
 * ### Sudo Command.md explains the following:
   * Gain Root Access
