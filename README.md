@@ -13,10 +13,11 @@
   * [ps](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#ps)
   
 * ### Sudo Command.md explains the following:
-  * Gain Root Access
-  * Install .deb files using 'sudo'
+  * [Gain Root Access](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Sudo%20Command.md#root-access-using-sudo-command)
+  * [Install .deb files using 'sudo'](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Sudo%20Command.md#installing-deb-files-using-sudo)
 
 * ### cURL Command :
-  - Short note on how cURL command it can be used to access http reponse.
+  - [Short note on how cURL command it can be used to access http reponse](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/cURL.md)
   
-
+* ### Simple Tricks :
+  - [Simple tricks which can help is using the terminal](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Simple%20tricks.md)
