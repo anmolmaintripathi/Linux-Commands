@@ -49,6 +49,12 @@ ls -lS					---	Sort by size [larger size on top]
 ls -lSr					---	sort by size [smaller size on top]
   ```
   
+  ##### NOTE : "tree" command is used to display the tree graph of all directories
+  ```console
+  tree					---	tree of all files from current directory
+  tree ~				---	tree all files from root
+  ```
+  
 ### cd:
   * ##### 'cd' command can be used to go a specific directory
 
