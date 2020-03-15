@@ -1,5 +1,19 @@
 # Basic Linux Commands
 
+### pwd:
+* 'pwd' commands stands for print working directory
+```console
+kali@kali:~/Desktop/folder$ pwd
+/home/kali/Desktop/folder
+```
+* The command line also displays the working directory. [important]
+```console
+kali@kali:~/Desktop/folder$
+	    \-----|------/
+	    	  |
+	    this is the path in which the terminal is working.
+```
+
 ### ls:
   * ##### 'ls' command can be used to display all the files present in a current directory
 
@@ -177,6 +191,25 @@ ls -lSr					---	sort by size [smaller size on top]
  file 2
  fiesta@fiesta-VirtualBox:~/Desktop$
  ``` 
+ 
+### cp:
+* 'cp' is used for coping files and directories.
+* Syntax for 'cp' commands
+```console
+cp filename destination_path
+
+kali@kali:~/Desktop$ cp file1.txt /home/kali/Documents
+```
+
+
+###### NOTE : '-r' option is used to copy directories/folders 
+```console
+kali@kali:~/Desktop$ cp -r folder /home/kali/Documents
+kali@kali:~/Desktop$ cd /home/kali/Documents
+kali@kali:~/Documents$ ls
+file1.txt  folder
+```
+
 ### Create Server using Python
  ##### PYTHON SERVER :
 * Python can be used to create servers.
@@ -196,7 +229,7 @@ python -m http.server 9000     --- changing the port number to 9000
 
 * If both the python versions are present in the system try writting "python3" or "python2" along with the command
 
-### ps Command :
+### ps:
 * "ps" stands for Process Status.
 * Displays all the different currently-running processes. 
 ###### NOTE : The default format of ps is " [Process Id]  [tty: Teletypewriter]  [Run Time]  [Terminal Type]
