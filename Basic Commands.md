@@ -23,6 +23,17 @@
  drwxr-xr-x 2 fiesta fiesta 4096 Feb  8 22:47 Downloads
  ....
   ```
+  ###### NOTE : Some other important options 
+  ```console
+ls -F					---	list files with their types
+ls -R					---	list files recursively
+ls -R /					---	List all files on system
+ls -lR					---	list all files recursively with verbous information
+ls -a					---	list all files includng hidden one
+ls --color				---	list files in color
+ls -lS					---	Sort by size [larger size on top]
+ls -lSr					---	sort by size [smaller size on top]
+  ```
   
 ### cd:
   * ##### 'cd' command can be used to go a specific directory
@@ -178,10 +189,12 @@ python –m SimpleHTTPServer
 ```
 * For PYTHON 3
 ```console
-python -m http.server          #default port number is 8080
+python -m http.server          --- default port number is 8080
 
-python -m http.server 9000     #changing the port number to 9000
+python -m http.server 9000     --- changing the port number to 9000
 ```
 
 * If both the python versions are present in the system try writting "python3" or "python2" along with the command
+
+### 
 
