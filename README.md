@@ -1,6 +1,7 @@
 # Linux-Commands
 
 * ### Basic Command.md consists of Simple Explanation for following commands:
+  * [pwd](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#pwd)
   * [ls](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#ls)
   * [cd](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#cd)
   * [mkdir & rmdir](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#mkdir--rmdir)
@@ -9,7 +10,7 @@
   * [touch](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#touch)
   * [cat](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#cat)
   * [Create a Python Server](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#create-server-using-python)
-  * [ps :  Process Status](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#ps-command-)
+  * [ps](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#ps)
   
 * ### Sudo Command.md explains the following:
   * Gain Root Access
