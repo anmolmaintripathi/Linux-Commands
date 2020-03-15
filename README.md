@@ -9,6 +9,7 @@
   * [echo](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#echo)
   * [touch](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#touch)
   * [cat](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#cat)
+  * [cp](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#cp)
   * [Create a Python Server](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#create-server-using-python)
   * [ps](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#ps)
   
