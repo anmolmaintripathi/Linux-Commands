@@ -2,6 +2,8 @@
 * ### Linux File System : 
 	* Start by learning about Linux File System [here.](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Linux%20File%20System.md)
  
+* ### Simple Tricks :
+  - [Simple tricks which can help is using the terminal](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Simple%20tricks.md)
 
 * ### Basic Command.md consists of Simple Explanation for following commands:
   * [pwd](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Basic%20Commands.md#pwd)
@@ -23,5 +25,3 @@
 * ### cURL Command :
   - [Short note on how cURL command it can be used to access http reponse](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/cURL.md)
   
-* ### Simple Tricks :
-  - [Simple tricks which can help is using the terminal](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Simple%20tricks.md)
