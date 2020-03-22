@@ -1,6 +1,6 @@
 # Linux
-* ### Linux File System
-		* [Start by learning about Linux File System](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Linux%20File%20System.md)
+* ### Linux File System : 
+	* Start by learning about Linux File System [here.](https://github.com/anmolmaintripathi/Linux-Commands/blob/master/Linux%20File%20System.md)
  
 
 * ### Basic Command.md consists of Simple Explanation for following commands:
