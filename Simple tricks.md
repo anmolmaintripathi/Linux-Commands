@@ -21,7 +21,7 @@ Ctrl+u					---	Cut the Line from the cursor to the beginning of line
 ```
 
 ### Application of Cut and Yank:
-* Suppose you extered an command and you forgot to add something at the 
+* Suppose you executed an command and you forgot to add something at the 
 	the beginning of line, in this case-
 ```console
 	Ctrl+u
