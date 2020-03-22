@@ -17,3 +17,7 @@
 |/tmp|Holds temporary files used between system boots|
 |/usr|Used for miscellaneous purposes, and can be used by many users. Includes administrative commands, shared files, library files, and others. This folder is named after the name of your Device name|
 |/kernel|Contains kernel files|
+
+* In the following picture using the ```ls``` command (which is used to display all the directories and files) we can see all the files under root.
+
+![Files under root](https://user-images.githubusercontent.com/45136496/77253553-0d6c3e00-6c81-11ea-8f61-98edb0f6c832.png)
