@@ -30,6 +30,7 @@
 
 |Commands|Description|Refer Link|
 |--|--|--|
+|```pwd```|print name of current/working directory | [pwd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/pwd.md)|
 |```cat```|concatenate files and print on the standard output | [cat](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/cat.md)|
 |```cd```|change the working directory | [cd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/cd.md)|
 |```cp```|copy files and directories to the specified location | [cp](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/cp.md)|
@@ -42,7 +43,6 @@
 |```mkdir```|creates the specified directory | [mkdir](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/mkdir%20or%20rmdir.md)|
 |```more```|browses through a file from the beginning to the end|
 |```mv```|moves the location of, or renames a file/directory|
-|```pwd```|print name of current/working directory | [pwd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/pwd.md)|
 |```rm```|remove files or directories | [rm](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/rm.md)|
 |```rmdir```|removes a directory | [rmdir](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/mkdir%20or%20rmdir.md)|
 |```touch```|creates a blank file or modifies an existing file or its attributes | [touch](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/touch.md)| 	
