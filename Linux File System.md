@@ -30,22 +30,22 @@
 
 |Commands|Description|Refer Link|
 |--|--|--|
-|```cat```|concatenate files and print on the standard output | [cat](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cat)|
-|```cd```|change the working directory | [cd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cd)|
-|```cp```|copy files and directories to the specified location | [cp](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cp)|
+|```cat```|concatenate files and print on the standard output | [cat](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/cat.md)|
+|```cd```|change the working directory | [cd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/cd.md)|
+|```cp```|copy files and directories to the specified location | [cp](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/cp.md)|
 |```file```|determine file type, for example (binary, text, etc)|
 |```find```|search for files in a directory hierarchy|
 |```head```|output the beginning part of files|
 |```tail```|output the last part of files|
 |```less```|browses through a file from the end or the beginning|	
-|```ls```|list specified directory contents | [ls](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#ls)|
-|```mkdir```|creates the specified directory | [mkdir](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#mkdir--rmdir)|
+|```ls```|list specified directory contents | [ls](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/ls.md)|
+|```mkdir```|creates the specified directory | [mkdir](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/mkdir%20or%20rmdir.md)|
 |```more```|browses through a file from the beginning to the end|
 |```mv```|moves the location of, or renames a file/directory|
-|```pwd```|print name of current/working directory | [pwd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#pwd)|
-|```rm```|remove files or directories | [rm](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#rm)|
-|```rmdir```|removes a directory | [rmdir](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#mkdir--rmdir)|
-|```touch```|creates a blank file or modifies an existing file or its attributes | [touch](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#touch)| 	
+|```pwd```|print name of current/working directory | [pwd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/pwd.md)|
+|```rm```|remove files or directories | [rm](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/rm.md)|
+|```rmdir```|removes a directory | [rmdir](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/mkdir%20or%20rmdir.md)|
+|```touch```|creates a blank file or modifies an existing file or its attributes | [touch](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Commands/touch.md)| 	
 |```whereis```| output all the location of a file or directory|
 |```which```|output the location of a directory if it is in your PATH|
 
