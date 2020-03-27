@@ -30,22 +30,22 @@
 
 |Commands|Description|
 |--|--|
-|```cat```|concatenate files and print on the standard output|
-|```cd```|change the working directory|
-|```cp```|copy files and directories to the specified location|
+|```cat```|concatenate files and print on the standard output -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cat)|
+|```cd```|change the working directory -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cd)|
+|```cp```|copy files and directories to the specified location -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cp)|
 |```file```|determine file type, for example (binary, text, etc)|
 |```find```|search for files in a directory hierarchy|
 |```head```|output the beginning part of files|
 |```tail```|output the last part of files|
 |```less```|browses through a file from the end or the beginning|	
-|```ls```|list specified directory contents|
-|```mkdir```|creates the specified directory|
+|```ls```|list specified directory contents -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#ls)|
+|```mkdir```|creates the specified directory -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#mkdir--rmdir)|
 |```more```|browses through a file from the beginning to the end|
 |```mv```|moves the location of, or renames a file/directory|
-|```pwd```|print name of current/working directory|
-|```rm```|remove files or directories|
-|```rmdir```|removes a directory|
-|```touch```|creates a blank file or modifies an existing file or its attributes| 	
+|```pwd```|print name of current/working directory -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#pwd)|
+|```rm```|remove files or directories -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#rm)|
+|```rmdir```|removes a directory -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#mkdir--rmdir)|
+|```touch```|creates a blank file or modifies an existing file or its attributes -> [refer here](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#touch)| 	
 |```whereis```| output all the location of a file or directory|
 |```which```|output the location of a directory if it is in your PATH|
 
