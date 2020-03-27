@@ -1,7 +1,7 @@
 # cat:
  * ##### 'cat' command can be used to read a file and display the contains of the file.
  * ##### It can also used to concatenate two different files.
- ###### NOTE: assume there exist a file called "trial.txt"
+ ###### NOTE: assume there exist a file called "file.txt" 
 ![cat 1](https://user-images.githubusercontent.com/45136496/77779411-7c2e0a80-7078-11ea-95a8-7b50612bd2b6.gif)
 
  ###### NOTE: ">" operator can be used to replace the contains of the file. (`Ctrl + D` after `enter` to save the file)
