@@ -6,17 +6,17 @@
   - [Simple tricks which can help is using the terminal](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Simple%20tricks.md)
 
 * ### Basic Command.md consists of Simple Explanation for following commands:
-  * [pwd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#pwd)
-  * [ls](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#ls)
-  * [cd](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cd)
-  * [mkdir & rmdir](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#mkdir--rmdir)
-  * [rm](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#rm)
-  * [echo](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#echo)
-  * [touch](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#touch)
-  * [cat](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cat)
-  * [cp](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#cp)
-  * [Create a Python Server](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#create-server-using-python)
-  * [ps](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Basic%20Commands.md#ps)
+  * [pwd](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/pwd.md)
+  * [ls](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/ls.md)
+  * [cd](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/cd.md)
+  * [mkdir & rmdir](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/mkdir%20or%20rmdir.md)
+  * [rm](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/rm.md)
+  * [echo](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/echo.md)
+  * [touch](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/touch.md)
+  * [cat](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/cat.md)
+  * [cp](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/cp.md)
+  * [Create a Python Server](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/python-server.md)
+  * [ps](https://github.com/anmolmanitripathi/Linux-Commands/tree/master/Commands/ps.md)
   
 * ### Sudo Command.md explains the following:
   * [Gain Root Access](https://github.com/anmolmanitripathi/Linux-Commands/blob/master/Sudo%20Command.md#root-access-using-sudo-command)
